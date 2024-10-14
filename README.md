@@ -1,24 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sibt-e-Haider</h1>
-<h3 align="center">A passionate unity game developer from Pakistan</h3>
+# 🎮 Hey, I'm Syed Muhammad Sibt Haider!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibthaider101&label=Profile%20views&color=0e75b6&style=flat" alt="sibthaider101" /> </p>
+**`Game Developer | Unity Enthusiast | Gameplay Mechanic Specialist`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibthaider101" alt="sibthaider101" /></a> </p>
+Welcome to my GitHub profile! I'm a dedicated game developer who loves crafting complex, interactive systems in Unity. My expertise focuses on vehicle dynamics, AI traffic simulations, and gameplay mechanics that push the boundaries of realistic game experiences. I'm constantly refining my skills and aiming to develop cutting-edge features that stand out in the world of game development.
 
-- 🔭 I’m currently working on **Car racing & car traffic games**
+---
 
-- 👯 I’m looking to collaborate on **Simulation games**
+### 🛠️ Skills & Technologies
 
-- 💬 Ask me about **Unity game engine**
+- **Game Development:** Unity (C#), Custom Car Physics, AI Pathfinding
+- **Game Mechanics:** Vehicle Handling, Drift Mechanics, Collision Systems
+- **AI Systems:** AI car opponents, Traffic Simulation, Navigation Mesh
+- **Tools:** Git, Blender (Asset Creation), Timeline (for cutscenes and animations)
 
-- 📫 How to reach me **hydersibt@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sibthaider101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sibthaider101" height="30" width="40" /></a>
-</p>
+### 🚧 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+#### **🏎️ Drift Car Simulator**
+I'm working on a challenging project that focuses on developing a realistic drift car simulation. The key difficulties lie in:
+- **Precise Car Handling:** Implementing physics that allow for controlled drifts while maintaining responsiveness to user input. It involves fine-tuning friction, torque, and inertia to create a fun yet authentic drifting experience.
+- **Drift Scoring System:** Creating an algorithm that accurately scores drifts based on angles, speed, and control. The system calculates performance dynamically while ensuring real-time feedback to the player.
+- **Balancing Realism and Playability:** One of the toughest challenges is balancing accurate car physics without making the game overly difficult for players.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibthaider101&show_icons=true&locale=en&layout=compact" alt="sibthaider101" /></p>
+#### **🚦 AI Traffic Simulation**
+This project involves creating an AI traffic system for a seamless open-world experience. Some of the complex aspects include:
+- **Realistic AI Behavior:** Vehicles must follow traffic laws (e.g., stopping at lights, turning smoothly, avoiding collisions) while interacting with the player. Programming AI with such behavior requires intricate pathfinding algorithms and behavioral scripts.
+- **Dynamic Traffic Flow:** Managing a variety of vehicle types and behaviors in real time without sacrificing performance is a major technical hurdle. The system needs to scale with increasing vehicle counts while maintaining a smooth gameplay experience.
+- **Player Interaction:** AI cars are programmed to respond realistically when the player interacts with them, whether overtaking, cutting them off, or stopping suddenly in front of them.
+
+#### **🛣️ Garage & Car Selection System**
+In this project, I'm developing a sophisticated garage interface where players can browse, select, and customize cars. Some of the challenges include:
+- **Smooth Car Transition:** The cars rotate and animate fluidly as the player browses, with custom logic to ensure cars spawn in the correct positions without visual glitches or delays.
+- **Persistent Car Customization:** The system tracks player selections and customizations, ensuring the chosen car is reflected accurately when the game is played. This involves managing data persistence and loading times efficiently.
+- **User Experience Optimization:** The interface is designed to be intuitive and visually appealing, while the backend requires complex code to handle smooth transitions and conditional button displays (e.g., 'Play' only appears after a car is selected).
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sibthaider101&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sibthaider101&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sibt-hyder-591a4a228)
+
+---
+
+### 🎮 Fun Fact
+I'm deeply fascinated by the technical challenges behind car physics and AI systems in games. For me, nailing the perfect balance between realism and fun is the ultimate puzzle. 🏎️💨
